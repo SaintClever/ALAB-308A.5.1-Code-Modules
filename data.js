@@ -4,7 +4,7 @@ export default course;
 const data = {
   name: [
     {
-      "first": "Saint",
+      "first": "Nesta",
       "middle": "Saint. Clever",
       "last": "Parchment"
     }
